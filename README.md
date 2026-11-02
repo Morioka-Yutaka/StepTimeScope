@@ -20,6 +20,8 @@ proc means data=work.class_bmi_sort n mean min max;
 run;  
 %timer_end();
 ~~~sas
+
+
 <img width="379" height="108" alt="image" src="https://github.com/user-attachments/assets/091d467d-c8c6-4225-a331-141768e8af45" />
 
 <img width="483" height="370" alt="image" src="https://github.com/user-attachments/assets/24eb09f6-dfda-48e6-af4e-380d4097283f" />
