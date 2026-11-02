@@ -19,7 +19,7 @@ proc means data=work.class_bmi_sort n mean min max;
   var age height weight bmi;  
 run;  
 %timer_end();
-~~~sas
+~~~
 
 
 <img width="379" height="108" alt="image" src="https://github.com/user-attachments/assets/091d467d-c8c6-4225-a331-141768e8af45" />
