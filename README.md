@@ -24,7 +24,7 @@ run;
 
 <img width="658" height="216" alt="image" src="https://github.com/user-attachments/assets/091d467d-c8c6-4225-a331-141768e8af45" />
   <br>
-<img width="241" height="185" alt="image" src="https://github.com/user-attachments/assets/24eb09f6-dfda-48e6-af4e-380d4097283f" />
+<img width="482" height="370" alt="image" src="https://github.com/user-attachments/assets/24eb09f6-dfda-48e6-af4e-380d4097283f" />
 
 ~~~sas
 %timer_start();
